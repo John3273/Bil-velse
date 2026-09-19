@@ -1,0 +1,14 @@
+G:\Skole\Bil\bin\Debug\net8.0\Bil.exe
+G:\Skole\Bil\bin\Debug\net8.0\Bil.deps.json
+G:\Skole\Bil\bin\Debug\net8.0\Bil.runtimeconfig.json
+G:\Skole\Bil\bin\Debug\net8.0\Bil.dll
+G:\Skole\Bil\bin\Debug\net8.0\Bil.pdb
+G:\Skole\Bil\obj\Debug\net8.0\Bil.GeneratedMSBuildEditorConfig.editorconfig
+G:\Skole\Bil\obj\Debug\net8.0\Bil.AssemblyInfoInputs.cache
+G:\Skole\Bil\obj\Debug\net8.0\Bil.AssemblyInfo.cs
+G:\Skole\Bil\obj\Debug\net8.0\Bil.csproj.CoreCompileInputs.cache
+G:\Skole\Bil\obj\Debug\net8.0\Bil.dll
+G:\Skole\Bil\obj\Debug\net8.0\refint\Bil.dll
+G:\Skole\Bil\obj\Debug\net8.0\Bil.pdb
+G:\Skole\Bil\obj\Debug\net8.0\Bil.genruntimeconfig.cache
+G:\Skole\Bil\obj\Debug\net8.0\ref\Bil.dll
